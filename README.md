@@ -2,7 +2,7 @@
 
 Welcome to DesignVerse – Your Creative Universe!
 
-![DesignVerse Logo](logo.png)
+![DesignVerse Logo](dv.png)
 
 DesignVerse is a unique platform that brings together designers, creators, and visionaries from around the world to explore, collaborate, and celebrate the art of design. Whether you're an aspiring designer or a seasoned professional, DesignVerse offers an inspiring space to showcase your work, discover new trends, and connect with like-minded individuals.
 
