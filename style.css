@@ -921,3 +921,32 @@ footer {
     gap: 30px;
     flex-wrap: wrap;
 }
+
+
+/* media-queries */
+
+@media only screen and (max-width:850px) {
+    .nav {
+        padding: 0;
+    }
+
+    .company-logo {
+        position: absolute;
+        top: 30px;
+        bottom: 30px;
+
+    }
+
+    /* .nav-links {
+        flex-direction: column;
+        width: 100%;
+        height: 100vh;
+        justify-content: center;
+        background-color: #484742;
+    } */
+
+    .header {
+        h1-head {}
+    }
+
+}
