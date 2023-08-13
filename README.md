@@ -39,7 +39,7 @@ DesignVerse is a passion project started by a group of design enthusiasts who wa
 
 To get started with DesignVerse, follow these simple steps:
 
-1. Visit our website at [www.designverse.com](https://www.designverse.com).
+1. Visit our website at [www.designverse.com](https://sa2003hil.github.io/DesignVerse/).
 2. Click on the "Sign Up" button and create your free account.
 3. Explore the platform, customize your profile, and start building your portfolio.
 4. Connect with other designers, join discussions, and contribute to the community.
@@ -72,7 +72,7 @@ We appreciate your input and look forward to working together to make DesignVers
 
 Join our thriving community of designers on social media:
 
-- Linkedin : [@DesignVerseHQ](https://www.linkedin.com/company/designversesociety/)
+- Linkedin : [@DesignVerse](https://www.linkedin.com/company/designversesociety/)
 - Instagram: [@designverse_official]()
 - Facebook: [DesignVerse]()
 
