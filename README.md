@@ -72,9 +72,9 @@ We appreciate your input and look forward to working together to make DesignVers
 
 Join our thriving community of designers on social media:
 
-- Twitter: [@DesignVerseHQ](https://twitter.com/DesignVerseHQ)
-- Instagram: [@designverse_official](https://www.instagram.com/designverse_official/)
-- Facebook: [DesignVerse](https://www.facebook.com/designverse)
+- Linkedin : [@DesignVerseHQ](https://www.linkedin.com/company/designversesociety/)
+- Instagram: [@designverse_official]()
+- Facebook: [DesignVerse]()
 
 Connect, share, and be inspired by fellow designers from all corners of the world!
 
